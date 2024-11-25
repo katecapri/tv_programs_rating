@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<user id="1">
+<first_name lang="ru">Мария</first_name>
+<last_name lang="ru">Петрова</last_name>
+<age>28</age>
+<age_range lang="ru">"20-29"</age_range>
+<gender lang="ru">Ж</gender>
+</user>
+<user id="2">
+<first_name lang="ru">Олег</first_name>
+<last_name lang="ru">Иванов</last_name>
+<age>57</age>
+<age_range lang="ru">"50-59"</age_range>
+<gender lang="ru">М</gender>
+</user>
+<user id="3">
+<first_name lang="ru">Степан</first_name>
+<last_name lang="ru">Александров</last_name>
+<age>24</age>
+<age_range lang="ru">"20-29"</age_range>
+<gender lang="ru">М</gender>
+</user>
+<user id="4">
+<first_name lang="ru">Анна</first_name>
+<last_name lang="ru">Иванова</last_name>
+<age>38</age>
+<age_range lang="ru">"30-39"</age_range>
+<gender lang="ru">Ж</gender>
+</user>
+<user id="5">
+<first_name lang="ru">Александр</first_name>
+<last_name lang="ru">Панов</last_name>
+<age>13</age>
+<age_range lang="ru">"10-19"</age_range>
+<gender lang="ru">М</gender>
+</user>
+<user id="6">
+<first_name lang="ru">Евгения</first_name>
+<last_name lang="ru">Евдокимова</last_name>
+<age>8</age>
+<age_range lang="ru">"0-9"</age_range>
+<gender lang="ru">М</gender>
+</user>
